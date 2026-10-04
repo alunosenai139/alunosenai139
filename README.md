@@ -16,7 +16,6 @@ I am a young man of principles and ideas who follows the right path and complete
   <a href="https://instagram.com/alunosenai139">
     <img src="https://www.instagram.com/emanuel.verbinen/ >
   </a>
-</p>
 
 ---
 
@@ -28,8 +27,6 @@ I am a young man of principles and ideas who follows the right path and complete
 -   I play instruments and strategy games in my spare time.
 ---
 
----
-
 ## 🚀 Philosophy
 
 > _"If you're not going to do it right, then don't do it at all."_
@@ -39,3 +36,4 @@ I am a young man of principles and ideas who follows the right path and complete
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to compliments and tips
+</p>
