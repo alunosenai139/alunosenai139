@@ -3,7 +3,7 @@
 🚀 **aprendice of Software Engineer | python, HTML, SQL & PHP **  
 🇧🇷 Brazil
 
-I am a young man of principles and ideas who follows the right path and completes what I start with excellence and proactivity.
+I am a young man helpful and skilled who follows the right path and completes what I start with excellence and proactivity.
 
 ---
 
